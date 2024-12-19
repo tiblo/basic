@@ -84,6 +84,6 @@
 > 사용자가 결과를 확인하면 프로그램이 종료된다.
 
 
-# 개발환경 설정
+# 파이썬 개발환경 설정
 - 파이썬 : https://www.python.org/downloads/
 - Visual studio code : https://code.visualstudio.com/
