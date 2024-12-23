@@ -92,5 +92,5 @@
     else:
         다른 실행 문장들]
 
-통합 개발 환경(IDE) - Visual studio code
+참고) 통합 개발 환경(IDE) - Visual studio code
 편집기(Editor) + 컴파일러(빌더) + 디버거(Debugger)
